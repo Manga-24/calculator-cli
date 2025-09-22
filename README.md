@@ -28,6 +28,6 @@ python calculator.py
 
 🛠️ Tools Used
 
-Python 3.x
-VS Code / Any Text Editor
-Terminal / Command Prompt
+1)Python 3.x
+2)VS Code / Any Text Editor
+3)Terminal / Command Prompt
